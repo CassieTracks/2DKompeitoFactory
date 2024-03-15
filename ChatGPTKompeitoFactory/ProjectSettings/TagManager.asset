@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Fusion
+  - Fission
+  - Extractor
+  - Mixer
+  - StraightConveyor
+  - RightConveyor
+  - LeftConveyor
+  - SplitRightConveyor
+  - SplitLeftConveyor
+  - MergeRightConveyor
+  - MergeLeftConveyor
+  - Stopper
+  - Undefined
+  - Enter
+  - Exit
+  - Resetable
+  - SplitRight
+  - SplitLeft
+  - MergeRight
+  - MergeLeft
+  - EnterGoStraight
+  - DecisionGate
+  - EnterGoRight
+  - EnterGoLeft
+  - EnterSplitLeft
+  - EnterSplitRight
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Machine
+  - Water
+  - UI
+  - Stopper
+  - MachineInteraction
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
